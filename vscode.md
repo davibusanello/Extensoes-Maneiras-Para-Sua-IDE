@@ -38,6 +38,7 @@
   - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
   - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
   - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+  - [Codesnap](https://marketplace.cursorapi.com/items/?itemName=adpyke.codesnap)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
