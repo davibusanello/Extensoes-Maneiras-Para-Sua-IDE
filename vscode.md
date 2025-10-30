@@ -201,7 +201,7 @@ Essa extensão permite que você verifique seu código shell para erros comuns e
 
 ## SonarLint
 
-Essa extensão permite corrigir problemas de codificação antes que eles existam! Como um corretor ortográfico, o SonarLint destaca bugs e bulnerabilidades de segurança à medida que você escreve o código, com orientações claras de correção para que você possa corrigi-los. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+Essa extensão permite corrigir problemas de codificação antes que eles existam! Como um corretor ortográfico, o SonarLint destaca bugs e vulnerabilidades de segurança à medida que você escreve o código, com orientações claras de correção para que você possa corrigi-los. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 
 ![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
