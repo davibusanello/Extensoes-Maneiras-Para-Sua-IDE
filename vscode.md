@@ -31,6 +31,8 @@
   - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
+  - [shell-format](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#shell-format)
+  - [ShellCheck](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#shellcheck)
   - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Tailwind CSS IntelliSense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#tailwind-css-intellisense)
@@ -76,7 +78,7 @@ Com essa extensão você pode categorizar alguns comentários do seu código com
 Essa extensão colore parênteses, colchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 > A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
-> Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
+> Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.
 
 ## Code Runner
 
@@ -188,6 +190,14 @@ Formatador de código que suporta JavaScript, TypeScript, CSS, HTML, JSON e muit
 ## Regex Previewer
 
 Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
+
+## shell-format
+
+Essa extensão permite que você formate seus scripts shell de forma consistente e legível. Suporta .sh, .bash, .bat [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
+
+## ShellCheck
+
+Essa extensão permite que você verifique seu código shell para erros comuns e melhorias de estilo usando a CLI [ShellCheck](https://github.com/koalaman/shellcheck). Suporta .sh, .bash, .zsh [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 
 ## SonarLint
 
